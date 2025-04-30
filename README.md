@@ -11,7 +11,7 @@
 <h2>Imagens do projeto:</h2>
 <br>
 <h3>Desktop</h3>
-<img src="" />
+<img src="https://github.com/Rmotadev/ProjetoWeCare/blob/main/assets/desktop.jpeg?raw=true" alt="desktop-img" />
 <h3>Mobile</h3>
 <img src="" />
 
